@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -7,8 +7,7 @@ var config = {
         "亲爱的爽儿",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第一个生日",
-        "去年的生日",
+        "第一个生日呢",
         "虽然疫情封校",
         "没法出去好吃好喝好玩",
         "但至少",
@@ -32,7 +31,7 @@ var config = {
     desc: {
         turn_on: "点这里哦 ^_^",
         play: "音乐 起~",
-        bannar_coming: "上点颜色~",
+        bannar_coming: "来点花样~",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
